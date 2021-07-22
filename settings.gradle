@@ -1,0 +1,3 @@
+rootProject.name = "NoteCleanArchi"
+include ':app'
+include ':core'
